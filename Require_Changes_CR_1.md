@@ -4,7 +4,7 @@ Good job so far!
 You still need to work on some issues to get your project approved, but you are almost there!
 
 <div style="text-align:center;">
-    <img src="https://camo.githubusercontent.com/7cf1ba8db9cd08f454a9651e48128c064a4440a59881658c8593a41a8de243f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f744b797263304e546c4563475764546870342f67697068792e676966" alt="Remote Collaboration" style="width:60%;">
+    <img src="https://camo.githubusercontent.com/7cf1ba8db9cd08f454a9651e48128c064a4440a59881658c8593a41a8de243f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f744b797263304e546c4563475764546870342f67697068792e676966" alt="Remote Collaboration" style="width:40%;">
 </div>
 
 ### To Highlight 💯
