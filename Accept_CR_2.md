@@ -5,7 +5,7 @@ Your project is complete! There is nothing else to say other than... it's time t
 Congratulations! 🎉
 
 <div style="text-align:center;">
-    <img src="https://i.imgur.com/nvrw8p7.gif" alt="Remote Collaboration" style="width:40%;">
+    <img src="https://i.imgur.com/nvrw8p7.gif" alt="Remote Collaboration" style="width:100%;">
 </div>
 
 ### Highlights
